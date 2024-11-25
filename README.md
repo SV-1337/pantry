@@ -1,3 +1,5 @@
+This is a project for Headstarter Fellowship Week 2. It uses Firebase to store data and implements a simple pantry tracker app, allowing the user to keep details about items in their pantry. Live Link: pantry-three-delta.vercel.app
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
